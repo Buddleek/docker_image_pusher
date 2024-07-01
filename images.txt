@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
---platform=linux/amd64 library/MySQL
+--platform=linux/amd64 library/mysql:oraclelinux9
